@@ -1281,6 +1281,9 @@
         {
           "path": "json/gregrcp.json"
         }
+        {
+          "path": "json/ahk.json"
+        }
       ]
     }
   ]
